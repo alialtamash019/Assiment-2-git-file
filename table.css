@@ -1,0 +1,49 @@
+ .heading {
+        color:dodgerblue;
+      }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid #ccc;
+            text-align: center;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #00557f;
+            color: white;
+        }
+
+        .time-col {
+            background-color: #ffedb5;
+            font-weight: bold;
+        }
+
+        .gray {
+            background-color: #d9d9d9;
+        }
+
+        .teal {
+            background-color: #c4f2f1;
+        }
+
+        .yellow {
+            background-color: #ffdf99;
+        }
+
+        .orange {
+            background-color: #ffc000;
+        }
+
+        .blue {
+            background-color: #8fd4da;
+        }
